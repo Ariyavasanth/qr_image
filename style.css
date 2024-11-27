@@ -71,7 +71,7 @@ body{
 
 .wrapper{
     background-color: var(--clr-White);
-    max-width:21.75rem;
+    max-width:19.75rem;
     text-align: center;
     padding: 1rem 1rem 2.5rem 1rem;
     display: flex;
@@ -92,13 +92,13 @@ body{
 .content__header{
     color: var(--clr-Slate-900);
     font-weight: var(--fw-Weight-accent);
-    font-size:1.5rem;
-    line-height: 1.2;
-    padding:0 0.3rem;
+    font-size:1.4rem;
+    line-height: 1.1;
+    /* padding:0 0.1rem; */
 }
 
 .content__caption{
     color: var(--clr-Slate-500);
     line-height:1.3;
-    padding: 0 2rem;
+    padding: 0 1rem;
 }
